@@ -1,0 +1,19 @@
+{
+  "name": "guia_hoteles",
+  "version": "1.0.0",
+  "description": "mi proycto web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/collazodev/Guia_Hoteles.git"
+  },
+  "author": "jhon anderson rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collazodev/Guia_Hoteles/issues"
+  },
+  "homepage": "https://github.com/collazodev/Guia_Hoteles#readme"
+}
